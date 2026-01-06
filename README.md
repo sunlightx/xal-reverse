@@ -5,10 +5,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Epic_Games_logo.svg/1200px-Epic_Games_logo.svg.png" alt="Logo" width="150" height="150">
   </a>
 
-  <h3 align="center">Epicgames Xal Reverse</h3>
+  <h3 align="center">EpicGames Xal Encryption algorithm</h3>
 
   <p align="center">
-    Reversed New Epicgames XAL encryption algorithm.
 </div>
 
 ### Important Notes
