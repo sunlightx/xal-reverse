@@ -1,0 +1,873 @@
+{
+  "0": 50,
+  "1": "2026-01-05T23:51:25.518Z",
+  "2": "103a739741aa26",
+  "3": {
+      "title": "Passwort für dein Epic Games-Konto zurücksetzen | Epic Games",
+      "referrer": ""
+  },
+  "4": true,
+  "5": {
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "platform": "Win32",
+      "language": "de-DE",
+      "languages": [
+          "de-DE",
+          "de",
+          "en-US",
+          "en"
+      ],
+      "hardware_concurrency": 8,
+      "device_memory": 8,
+      "product": "Gecko",
+      "product_sub": "20030107",
+      "vendor": "Google Inc.",
+      "vendor_sub": "",
+      "webdriver": false,
+      "max_touch_points": 0,
+      "cookie_enabled": true,
+      "property_list": [
+          "vendorSub",
+          "productSub",
+          "vendor",
+          "maxTouchPoints",
+          "scheduling",
+          "userActivation",
+          "geolocation",
+          "doNotTrack",
+          "plugins",
+          "mimeTypes",
+          "pdfViewerEnabled",
+          "webkitTemporaryStorage",
+          "webkitPersistentStorage",
+          "hardwareConcurrency",
+          "cookieEnabled",
+          "appCodeName",
+          "appName",
+          "appVersion",
+          "platform",
+          "product",
+          "userAgent",
+          "language",
+          "languages",
+          "onLine",
+          "webdriver",
+          "connection",
+          "getGamepads",
+          "javaEnabled",
+          "sendBeacon",
+          "vibrate",
+          "windowControlsOverlay",
+          "deprecatedRunAdAuctionEnforcesKAnonymity",
+          "protectedAudience",
+          "bluetooth",
+          "clipboard",
+          "credentials",
+          "keyboard",
+          "managed",
+          "mediaDevices",
+          "storage",
+          "serviceWorker",
+          "virtualKeyboard",
+          "wakeLock",
+          "deviceMemory",
+          "userAgentData",
+          "locks",
+          "login",
+          "ink",
+          "mediaCapabilities",
+          "devicePosture",
+          "hid",
+          "mediaSession",
+          "permissions",
+          "presentation",
+          "serial",
+          "gpu",
+          "usb",
+          "xr",
+          "storageBuckets",
+          "adAuctionComponents",
+          "runAdAuction",
+          "canLoadAdAuctionFencedFrame",
+          "canShare",
+          "share",
+          "clearAppBadge",
+          "getBattery",
+          "getUserMedia",
+          "requestMIDIAccess",
+          "requestMediaKeySystemAccess",
+          "setAppBadge",
+          "webkitGetUserMedia",
+          "clearOriginJoinedAdInterestGroups",
+          "createAuctionNonce",
+          "joinAdInterestGroup",
+          "leaveAdInterestGroup",
+          "updateAdInterestGroups",
+          "deprecatedReplaceInURN",
+          "deprecatedURNToURL",
+          "getInstalledRelatedApps",
+          "getInterestGroupAdAuctionData",
+          "registerProtocolHandler",
+          "unregisterProtocolHandler"
+      ],
+      "connection_rtt": 150
+  },
+  "6": {
+      "canvas_fingerprint": {
+          "length": 38354,
+          "num_colors": 4676,
+          "md5": "f2348c497eafa12e4ea43bb9325303ec",
+          "tlsh": "9C03F1B3323080941A61757E73C5E79C2C28EF945E8DAB9B0FE2E64111E2D07ADB4747"
+      },
+      "parameters": {
+          "renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 3GB (0x00001B84) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+          "vendor": "Google Inc. (NVIDIA)"
+      }
+  },
+  "7": {
+      "location": {
+          "origin": "https://www.epicgames.com",
+          "pathname": "/id/login/forgot-password",
+          "href": "https://www.epicgames.com/id/login/forgot-password?lang=de&redirect_uri=https%3A%2F%2Fstore.epicgames.com%2Fde&client_id=875a3b57d3a640a6b7f9b4e883463ab4"
+      },
+      "history": {
+          "length": 2
+      },
+      "screen": {
+          "avail_height": 1040,
+          "avail_width": 1920,
+          "avail_top": 0,
+          "height": 1080,
+          "width": 1920,
+          "color_depth": 24
+      },
+      "performance": {
+          "memory": {
+              "js_heap_size_limit": 4294967296,
+              "total_js_heap_size": 30305649,
+              "used_js_heap_size": 27049781
+          },
+          "resources": [
+              "https://static-assets-prod.unrealengine.com/account-portal/static/assets/Inter-Bold-CuhepTt8.woff2",
+              "https://static-assets-prod.unrealengine.com/account-portal/static/assets/Inter-Light-CdXm_ABL.woff2",
+              "https://static-assets-prod.unrealengine.com/account-portal/static/assets/Inter-Medium-P1cOs5ep.woff2",
+              "https://static-assets-prod.unrealengine.com/account-portal/static/assets/Inter-Regular-CKDp9E3C.woff2",
+              "https://static-assets-prod.unrealengine.com/account-portal/static/assets/InterTight-Bold-CPdZBAQJ.woff2",
+              "https://static-assets-prod.unrealengine.com/account-portal/static/assets/InterTight-Black-CBljiM1E.woff2",
+              "https://static-assets-prod.unrealengine.com/account-portal/static/assets/index-QoEJFRtM.js",
+              "https://static-assets-prod.unrealengine.com/account-portal/static/assets/index-CTGxZpYh.css",
+              "https://tracking.epicgames.com/tracking.js",
+              "https://static-assets-prod.unrealengine.com/account-portal/static/assets/ie11-DFmH3mxD.js",
+              "https://static-assets-prod.unrealengine.com/account-portal/static/assets/es.array.from-BX-4vO9h.js",
+              "https://www.epicgames.com/id/api/i18n?ns=messages&lang=de",
+              "https://www.epicgames.com/id/api/i18n?ns=epic-consent-dialog&lang=de",
+              "https://www.epicgames.com/id/api/i18n?ns=messages&lang=de",
+              "https://www.epicgames.com/id/api/i18n?ns=epic-consent-dialog&lang=de",
+              "https://sentry.io/api/1333512/envelope/?sentry_key=7a13b97c16f4455f92376d5c1e27f102&sentry_version=7&sentry_client=sentry.javascript.react%2F7.118.0",
+              "https://www.epicgames.com/id/api/location",
+              "https://www.epicgames.com/id/api/analytics",
+              "https://static-assets-prod.unrealengine.com/account-portal/static/assets/stable-Cp3wsz2Y.js",
+              "https://static-assets-prod.unrealengine.com/account-portal/static/assets/index-JJHKwImU.js",
+              "https://static-assets-prod.unrealengine.com/account-portal/static/assets/polyfill-B0Rz2pbH.js",
+              "https://static-assets-prod.unrealengine.com/account-portal/static/assets/serviceWorker-DnttpXcQ.js",
+              "https://www.epicgames.com/id/api/analytics",
+              "https://www.epicgames.com/id/api/client/875a3b57d3a640a6b7f9b4e883463ab4?redirectUrl=https%3A%2F%2Fstore.epicgames.com%2Fde",
+              "https://www.epicgames.com/id/api/authenticate",
+              "https://www.epicgames.com/id/api/analytics",
+              "https://www.epicgames.com/id/api/analytics",
+              "https://tracking.epicgames.com/track.png?referringUrl=none&location=https%3A%2F%2Fwww.epicgames.com%2Fid%2Flogin%2Fforgot-password%3Flang%3Dde%26redirect_uri%3Dhttps%253A%252F%252Fstore.epicgames.com%252Fde%26client_id%3D875a3b57d3a640a6b7f9b4e883463ab4&now=1767657043160&eventType=pageView",
+              "https://www.epicgames.com/id/api/analytics",
+              "https://static-assets-prod.unrealengine.com/account-portal/static/assets/ModalBasePage-D6gPxQHC.js",
+              "https://static-assets-prod.unrealengine.com/account-portal/static/assets/ForgotPasswordPage-DcUWPLXD.js",
+              "https://talon-website-prod.ecosec.on.epicgames.com/talon_sdk.js",
+              "https://talon-service-prod.ecosec.on.epicgames.com/v1/init",
+              "https://static-assets-prod.unrealengine.com/account-portal/static/manifest.json",
+              "https://js.hcaptcha.com/1/api.js?onload=hCaptchaLoaded&render=explicit",
+              "https://newassets.hcaptcha.com/captcha/v1/2e2f9feae51e15dd4676ba8e3d761ec72f41b826/static/i18n/de.json",
+              "https://newassets.hcaptcha.com/captcha/v1/2e2f9feae51e15dd4676ba8e3d761ec72f41b826/static/hcaptcha.html#frame=checkbox-invisible",
+              "https://talon-service-prod.ecosec.on.epicgames.com/v1/phaser/batch",
+              "https://sentry.io/api/1333512/envelope/?sentry_key=7a13b97c16f4455f92376d5c1e27f102&sentry_version=7&sentry_client=sentry.javascript.react%2F7.118.0",
+              "https://talon-service-prod.ecosec.on.epicgames.com/v1/init/execute",
+              "https://talon-service-prod.ecosec.on.epicgames.com/v1/phaser/batch",
+              "https://www.epicgames.com/id/api/analytics",
+              "https://www.epicgames.com/id/api/account/recovery",
+              "https://talon-service-prod.ecosec.on.epicgames.com/v1/phaser/batch"
+          ]
+      },
+      "device_pixel_ratio": 1,
+      "dark_mode": true,
+      "chrome": true,
+      "property_list": [
+          "0",
+          "1",
+          "2",
+          "window",
+          "self",
+          "document",
+          "name",
+          "location",
+          "customElements",
+          "history",
+          "navigation",
+          "locationbar",
+          "menubar",
+          "personalbar",
+          "scrollbars",
+          "statusbar",
+          "toolbar",
+          "status",
+          "closed",
+          "frames",
+          "length",
+          "top",
+          "opener",
+          "parent",
+          "frameElement",
+          "navigator",
+          "origin",
+          "external",
+          "screen",
+          "innerWidth",
+          "innerHeight",
+          "scrollX",
+          "pageXOffset",
+          "scrollY",
+          "pageYOffset",
+          "visualViewport",
+          "screenX",
+          "screenY",
+          "outerWidth",
+          "outerHeight",
+          "devicePixelRatio",
+          "event",
+          "clientInformation",
+          "screenLeft",
+          "screenTop",
+          "styleMedia",
+          "onsearch",
+          "onappinstalled",
+          "onbeforeinstallprompt",
+          "crypto",
+          "onbeforexrselect",
+          "onabort",
+          "onbeforeinput",
+          "onbeforematch",
+          "onbeforetoggle",
+          "onblur",
+          "oncancel",
+          "oncanplay",
+          "oncanplaythrough",
+          "onchange",
+          "onclick",
+          "onclose",
+          "oncommand",
+          "oncontentvisibilityautostatechange",
+          "oncontextlost",
+          "oncontextmenu",
+          "oncontextrestored",
+          "oncuechange",
+          "ondblclick",
+          "ondrag",
+          "ondragend",
+          "ondragenter",
+          "ondragleave",
+          "ondragover",
+          "ondragstart",
+          "ondrop",
+          "ondurationchange",
+          "onemptied",
+          "onended",
+          "onerror",
+          "onfocus",
+          "onformdata",
+          "oninput",
+          "oninvalid",
+          "onkeydown",
+          "onkeypress",
+          "onkeyup",
+          "onload",
+          "onloadeddata",
+          "onloadedmetadata",
+          "onloadstart",
+          "onmousedown",
+          "onmouseenter",
+          "onmouseleave",
+          "onmousemove",
+          "onmouseout",
+          "onmouseover",
+          "onmouseup",
+          "onmousewheel",
+          "onpause",
+          "onplay",
+          "onplaying",
+          "onprogress",
+          "onratechange",
+          "onreset",
+          "onresize",
+          "onscroll",
+          "onscrollend",
+          "onsecuritypolicyviolation",
+          "onseeked",
+          "onseeking",
+          "onselect",
+          "onslotchange",
+          "onstalled",
+          "onsubmit",
+          "onsuspend",
+          "ontimeupdate",
+          "ontoggle",
+          "onvolumechange",
+          "onwaiting",
+          "onwebkitanimationend",
+          "onwebkitanimationiteration",
+          "onwebkitanimationstart",
+          "onwebkittransitionend",
+          "onwheel",
+          "onauxclick",
+          "ongotpointercapture",
+          "onlostpointercapture",
+          "onpointerdown",
+          "onpointermove",
+          "onpointerup",
+          "onpointercancel",
+          "onpointerover",
+          "onpointerout",
+          "onpointerenter",
+          "onpointerleave",
+          "onselectstart",
+          "onselectionchange",
+          "onanimationend",
+          "onanimationiteration",
+          "onanimationstart",
+          "ontransitionrun",
+          "ontransitionstart",
+          "ontransitionend",
+          "ontransitioncancel",
+          "onafterprint",
+          "onbeforeprint",
+          "onbeforeunload",
+          "onhashchange",
+          "onlanguagechange",
+          "onmessage",
+          "onmessageerror",
+          "onoffline",
+          "ononline",
+          "onpagehide",
+          "onpageshow",
+          "onpopstate",
+          "onrejectionhandled",
+          "onstorage",
+          "onunhandledrejection",
+          "onunload",
+          "isSecureContext",
+          "crossOriginIsolated",
+          "scheduler",
+          "performance",
+          "trustedTypes",
+          "indexedDB",
+          "localStorage",
+          "sessionStorage",
+          "alert",
+          "atob",
+          "blur",
+          "btoa",
+          "cancelAnimationFrame",
+          "cancelIdleCallback",
+          "captureEvents",
+          "clearInterval",
+          "clearTimeout",
+          "close",
+          "confirm",
+          "createImageBitmap",
+          "fetch",
+          "find",
+          "focus",
+          "getComputedStyle",
+          "getSelection",
+          "matchMedia",
+          "moveBy",
+          "moveTo",
+          "open",
+          "postMessage",
+          "print",
+          "prompt",
+          "queueMicrotask",
+          "releaseEvents",
+          "reportError",
+          "requestAnimationFrame",
+          "requestIdleCallback",
+          "resizeBy",
+          "resizeTo",
+          "scroll",
+          "scrollBy",
+          "scrollTo",
+          "setInterval",
+          "setTimeout",
+          "stop",
+          "structuredClone",
+          "webkitCancelAnimationFrame",
+          "webkitRequestAnimationFrame",
+          "chrome",
+          "cookieStore",
+          "ondevicemotion",
+          "ondeviceorientation",
+          "ondeviceorientationabsolute",
+          "onpointerrawupdate",
+          "caches",
+          "documentPictureInPicture",
+          "sharedStorage",
+          "fetchLater",
+          "getScreenDetails",
+          "queryLocalFonts",
+          "showDirectoryPicker",
+          "showOpenFilePicker",
+          "showSaveFilePicker",
+          "originAgentCluster",
+          "viewport",
+          "onpageswap",
+          "onpagereveal",
+          "credentialless",
+          "fence",
+          "launchQueue",
+          "speechSynthesis",
+          "onscrollsnapchange",
+          "onscrollsnapchanging",
+          "ongamepadconnected",
+          "ongamepaddisconnected",
+          "webkitRequestFileSystem",
+          "webkitResolveLocalFileSystemURL",
+          "AppInit",
+          "_epicEnableCookieGuard",
+          "__tracking_base",
+          "_sentryDebugIds",
+          "_sentryDebugIdIdentifier",
+          "SENTRY_RELEASE",
+          "__axiosInstance",
+          "__core-js_shared__",
+          "core",
+          "regeneratorRuntime",
+          "__axiosInstanceCached",
+          "IMask",
+          "__STATSIG__",
+          "__store",
+          "__SENTRY__",
+          "MotionHandoffIsComplete",
+          "clearImmediate",
+          "setImmediate",
+          "_epicTrackingCookieDomainId",
+          "_epicTrackingCountryCode",
+          "_epicTracking",
+          "a0_0x35f7",
+          "a0_0x13b0",
+          "talon",
+          "hCaptchaLoaded",
+          "hCaptchaReady",
+          "Raven",
+          "hcaptcha",
+          "grecaptcha",
+          "k",
+          "i",
+          "TEMPORARY",
+          "PERSISTENT",
+          "addEventListener",
+          "dispatchEvent",
+          "removeEventListener",
+          "when"
+      ]
+  },
+  "8": {
+      "timezone_offset": -60,
+      "format": {
+          "calendar": "gregory",
+          "day": "numeric",
+          "locale": "de",
+          "month": "numeric",
+          "numbering_system": "latn",
+          "time_zone": "Europe/Berlin",
+          "year": "numeric"
+      }
+  },
+  "9": {
+      "sd_recurse": false
+  },
+  "10": {
+      "version": "3.4.2",
+      "visitor_id": "510ce0e6a2a490540b157f1af9319c96",
+      "confidence": 0.6,
+      "hashes": {
+          "fonts": "cb8d075615d495f39c0fee44cb2bd348",
+          "plugins": "7bf9267ddde7a33539244ab8ffe927d5",
+          "audio": "81c423152c811da0c92dcbe04435dbfe",
+          "canvas": "d0cac4e8853cb63c51eb727a03be6174",
+          "screen": "6d4d6e93c094135d8e0a5b02390f74bb"
+      }
+  },
+  "11": {
+      "mousemove": [
+          {
+              "t": 2373.900000002235,
+              "x": 1916,
+              "y": 745
+          },
+          {
+              "t": 2423.60000000149,
+              "x": 1629,
+              "y": 653
+          },
+          {
+              "t": 2473.5,
+              "x": 1362,
+              "y": 545
+          },
+          {
+              "t": 2523.60000000149,
+              "x": 1227,
+              "y": 480
+          },
+          {
+              "t": 2551.60000000149,
+              "x": 1214,
+              "y": 468
+          },
+          {
+              "t": 2633.699999999255,
+              "x": 1214,
+              "y": 467
+          },
+          {
+              "t": 2686.5,
+              "x": 1184,
+              "y": 462
+          },
+          {
+              "t": 2736.699999999255,
+              "x": 1119,
+              "y": 468
+          },
+          {
+              "t": 2786.60000000149,
+              "x": 1080,
+              "y": 480
+          },
+          {
+              "t": 2836.60000000149,
+              "x": 1066,
+              "y": 502
+          },
+          {
+              "t": 2884.60000000149,
+              "x": 1059,
+              "y": 527
+          },
+          {
+              "t": 2904.699999999255,
+              "x": 1058,
+              "y": 531
+          },
+          {
+              "t": 2986.699999999255,
+              "x": 1073,
+              "y": 531
+          },
+          {
+              "t": 3039.60000000149,
+              "x": 1090,
+              "y": 522
+          },
+          {
+              "t": 3089.60000000149,
+              "x": 1091,
+              "y": 508
+          },
+          {
+              "t": 3140.60000000149,
+              "x": 1093,
+              "y": 499
+          },
+          {
+              "t": 3189.60000000149,
+              "x": 1097,
+              "y": 492
+          },
+          {
+              "t": 3236.60000000149,
+              "x": 1096,
+              "y": 491
+          },
+          {
+              "t": 3272.699999999255,
+              "x": 1094,
+              "y": 493
+          },
+          {
+              "t": 3345.699999999255,
+              "x": 1093,
+              "y": 493
+          },
+          {
+              "t": 3364.60000000149,
+              "x": 1092,
+              "y": 495
+          },
+          {
+              "t": 3445.60000000149,
+              "x": 1100,
+              "y": 489
+          },
+          {
+              "t": 3495.60000000149,
+              "x": 1155,
+              "y": 457
+          },
+          {
+              "t": 3545.699999999255,
+              "x": 1276,
+              "y": 391
+          },
+          {
+              "t": 3593.199999999255,
+              "x": 1349,
+              "y": 365
+          },
+          {
+              "t": 3604.699999999255,
+              "x": 1353,
+              "y": 364
+          },
+          {
+              "t": 3688.5,
+              "x": 1353,
+              "y": 364
+          },
+          {
+              "t": 4394.900000002235,
+              "x": 1442,
+              "y": 776
+          },
+          {
+              "t": 4442.699999999255,
+              "x": 1441,
+              "y": 774
+          },
+          {
+              "t": 4496.60000000149,
+              "x": 1434,
+              "y": 764
+          },
+          {
+              "t": 4498.699999999255,
+              "x": 1433,
+              "y": 764
+          },
+          {
+              "t": 23562.300000000745,
+              "x": 565,
+              "y": 507
+          },
+          {
+              "t": 23613.199999999255,
+              "x": 462,
+              "y": 525
+          },
+          {
+              "t": 23662.199999999255,
+              "x": 431,
+              "y": 538
+          },
+          {
+              "t": 23715.199999999255,
+              "x": 440,
+              "y": 547
+          },
+          {
+              "t": 23764.10000000149,
+              "x": 567,
+              "y": 553
+          },
+          {
+              "t": 24769.5,
+              "x": 566,
+              "y": 585
+          },
+          {
+              "t": 24820.199999999255,
+              "x": 459,
+              "y": 579
+          },
+          {
+              "t": 24870.199999999255,
+              "x": 404,
+              "y": 582
+          },
+          {
+              "t": 24899.199999999255,
+              "x": 393,
+              "y": 587
+          },
+          {
+              "t": 25205.300000000745,
+              "x": 393,
+              "y": 586
+          },
+          {
+              "t": 25256.199999999255,
+              "x": 416,
+              "y": 566
+          },
+          {
+              "t": 25295.199999999255,
+              "x": 439,
+              "y": 540
+          },
+          {
+              "t": 25357.300000000745,
+              "x": 420,
+              "y": 570
+          },
+          {
+              "t": 25406.400000002235,
+              "x": 400,
+              "y": 584
+          },
+          {
+              "t": 25447.199999999255,
+              "x": 399,
+              "y": 586
+          },
+          {
+              "t": 25506.199999999255,
+              "x": 395,
+              "y": 592
+          },
+          {
+              "t": 25521.300000000745,
+              "x": 394,
+              "y": 593
+          },
+          {
+              "t": 25711.199999999255,
+              "x": 396,
+              "y": 591
+          },
+          {
+              "t": 25767.300000000745,
+              "x": 417,
+              "y": 579
+          },
+          {
+              "t": 25817.199999999255,
+              "x": 474,
+              "y": 545
+          },
+          {
+              "t": 25867.300000000745,
+              "x": 564,
+              "y": 499
+          },
+          {
+              "t": 25868.199999999255,
+              "x": 566,
+              "y": 498
+          },
+          {
+              "t": 43405.699999999255,
+              "x": 567,
+              "y": 521
+          },
+          {
+              "t": 43455.800000000745,
+              "x": 495,
+              "y": 585
+          },
+          {
+              "t": 43505.699999999255,
+              "x": 441,
+              "y": 638
+          },
+          {
+              "t": 43555.800000000745,
+              "x": 419,
+              "y": 663
+          },
+          {
+              "t": 43604.699999999255,
+              "x": 404,
+              "y": 687
+          },
+          {
+              "t": 43656.699999999255,
+              "x": 394,
+              "y": 695
+          },
+          {
+              "t": 43706.699999999255,
+              "x": 388,
+              "y": 705
+          },
+          {
+              "t": 43714.699999999255,
+              "x": 388,
+              "y": 706
+          },
+          {
+              "t": 43816.60000000149,
+              "x": 388,
+              "y": 706
+          }
+      ],
+      "mousedown": [
+          {
+              "t": 3599.900000002235,
+              "x": 1349,
+              "y": 365
+          },
+          {
+              "t": 25542.699999999255,
+              "x": 394,
+              "y": 593
+          },
+          {
+              "t": 43713.900000002235,
+              "x": 388,
+              "y": 705
+          }
+      ],
+      "mouseup": [
+          {
+              "t": 3687.800000000745,
+              "x": 1353,
+              "y": 364
+          },
+          {
+              "t": 25620.199999999255,
+              "x": 394,
+              "y": 593
+          },
+          {
+              "t": 43815.699999999255,
+              "x": 388,
+              "y": 706
+          }
+      ],
+      "wheel": [],
+      "touchstart": [],
+      "touchend": [],
+      "touchmove": [],
+      "scroll": [],
+      "keydown": [],
+      "keyup": [],
+      "resize": [
+          {
+              "t": 4505.699999999255,
+              "w": 1920,
+              "h": 1080
+          }
+      ],
+      "paste": []
+  },
+  "12": {
+      "caller_stack_trace": "Error\n    at https://talon-website-prod.ecosec.on.epicgames.com/talon_sdk.js:1:516667\n    at Object._0x9cbd8d [as execute] (https://talon-website-prod.ecosec.on.epicgames.com/talon_sdk.js:1:516842)\n    at Talon.updateIfNeeded (https://static-assets-prod.unrealengine.com/account-portal/static/assets/index-QoEJFRtM.js:599:37992)\n    at Captcha.updateIfNeeded (https://static-assets-prod.unrealengine.com/account-portal/static/assets/index-QoEJFRtM.js:599:40512)\n    at EmailRequestForm.<anonymous> (https://static-assets-prod.unrealengine.com/account-portal/static/assets/index-QoEJFRtM.js:599:53551)\n    at Generator.next (<anonymous>)\n    at https://static-assets-prod.unrealengine.com/account-portal/static/assets/index-QoEJFRtM.js:2:975\n    at new Promise (<anonymous>)\n    at br (https://static-assets-prod.unrealengine.com/account-portal/static/assets/index-QoEJFRtM.js:2:764)\n    at https://static-assets-prod.unrealengine.com/account-portal/static/assets/index-QoEJFRtM.js:599:53319"
+  },
+  "13": null,
+  "14": false
+}
